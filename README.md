@@ -56,7 +56,12 @@ Projeto desenvolvido no âmbito da cadeira de *Laboratório de Inovação e Dese
 Agradecimento especial ao *Núcleo de Física do Instituto Superior Técnico - NFIST* e à *Hackerschool*, ambos núcleos do IST pelo apoio logístico oferecido ao longo de toda a execução do projeto.
 
 
-Copyright 2019 João Pedro Gomes
+Este produto é open source! Esta livre de utilizar, reutilizar e modificar totalmente estes ficheiros de acordo com o propósito. 
+Distribuído como está; sem garantia.
+
+**Cópia da Apache License V2.0**
+
+Copyright 2019 Leandro Sobral, João Pedro Ornelas e João Pedro Gomes.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
