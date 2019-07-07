@@ -24,3 +24,4 @@ O sensor baseia-se num Arduino, num acelerómetro de 3 eixos e numa matriz de LE
 
 ### Montagem
 
+![Montagem](https://github.com/jpgomes98/brake-4-all/blob/master/montagem.png)
