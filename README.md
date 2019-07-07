@@ -25,3 +25,24 @@ O sensor baseia-se num Arduino, num acelerómetro de 3 eixos e numa matriz de LE
 ### Montagem
 
 ![Montagem](https://github.com/jpgomes98/brake-4-all/blob/master/docs/montagem.png)
+
+### Circuito
+As ligações efetuadas na breadboard e no anel são:
+
+* Acelerómetro
+
+  Arduino  ---------------    MMA8452Q
+    3.3V   ---------------     3.3V
+    GND    ---------------     GND
+  SDA (A4) ---------------     SDA
+  SCL (A5) ---------------     SCL
+  
+* Matriz LED
+
+  Arduino  ---------------    VMW107
+    3.3V   ---------------     VDD
+    GND    ---------------     GND
+    D25    --\/330 Ohm\/--     D_IN
+    
+    (Resistência para minimização do ruído)
+  
