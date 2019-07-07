@@ -4,7 +4,7 @@
 1. Descrição
 2. Material e Configuração
 3. Código Exemplo
-4. Autores e Agradecimentos
+4. Autores, Agradecimentos e Licenciamento
 
 ## Descrição
 *Brake-4-All* é um projeto *open-source* baseado na plataforma *Arduino*, cujo objetivo é conferir mais segurança a todos os velocípedes que partilham a via pública com automóveis e motas. Seguindo o lema, *Ser visto para estar protegido*, é essencial que os velocípetes garantam que o seu movimento é identificado facilmente pelos automóveis circulantes na via, tanto de dia como à noite. 
@@ -49,7 +49,7 @@ Arduino | VMW107
 
 ## Código Exemplo
 
-## Autores e Agradecimentos
+## Autores, Agradecimentos e Licenciamento
 
 Projeto desenvolvido no âmbito da cadeira de *Laboratório de Inovação e Desenvolvimento* do Mestrado Integrado em Engenharia Física Tecnológica do Instituto Superior Técnico, sob orientação da Profª Ana Mourão pelos alunos **Leandro Sobral**, **João Pedro Ornelas** e **João Pedro Gomes**.
 
@@ -57,7 +57,7 @@ Agradecimento especial ao *Núcleo de Física do Instituto Superior Técnico - N
 
 
 Este produto é open source! Esta livre de utilizar, reutilizar e modificar totalmente estes ficheiros de acordo com o propósito. 
-Distribuído como está; sem garantia.
+Distribuído como apresentado; sem garantia.
 
 **Cópia da Apache License V2.0**
 
