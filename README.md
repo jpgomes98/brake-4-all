@@ -31,12 +31,12 @@ As ligações efetuadas na breadboard e no anel são:
 
 * Acelerómetro
 
-  Arduino | MMA8452Q
+Arduino | MMA8452Q
 ------------ | -------------
- 3.3V | 3.3V
+ 3.3V| 3.3V
  GND | GND
- SDA (D21) | SDA
- SCL (D22) | SCL
+ D21 | SDA
+ D22 | SCL
   
 * Matriz LED
 
