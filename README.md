@@ -3,7 +3,7 @@
 ## Índice
 1. Descrição
 2. Material e Configuração
-3. Código Exemplo
+3. Compreender o Código
 4. Autores, Agradecimentos e Licenciamento
 
 ## Descrição
@@ -47,7 +47,7 @@ Arduino | VMW107
    
 (para esta última ligação recomenda-se o uso de uma resistência de 300-500 Ω para minimizar o ruído)
 
-## Código Exemplo
+## Compreender o Código
 
 O código intitulado de *brakeSensorBasic.ino* é o código base dsponibilizado para quem queira, sem grandes conhecimentos, ter um código funcional capaz de acionar a luz de travão (vermelho contínuo) quando deteta uma aceleração no sentido contrário ao do movimento acima de um certo valor da variável `aYThreshold` (o sentido negativo do eixo Y é tomado nesse código como sendo o eixo sensível, orientado na direção do movimento, pelo que travagens corresponderão a valores positivos mais altos obtidos nesse mesmo eixo). Este valor deve ser **adaptado por cada um aos valores de travagens mais comuns medidos na bicicleta** onde se instala este sensor, assim como ao grau de sensibilidade a travagens que se deseja obter. 
 Deve-se alterar a seguinte linha: 
