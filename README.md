@@ -73,8 +73,7 @@ Aqui está o essencial sobre  programa. O restante código pode ser facilmente c
 
 Projeto desenvolvido no âmbito da cadeira de *Laboratório de Inovação e Desenvolvimento* do Mestrado Integrado em Engenharia Física Tecnológica do Instituto Superior Técnico, sob orientação da Profª Ana Mourão pelos alunos **Leandro Sobral**, **João Pedro Ornelas** e **João Pedro Gomes**.
 
-Agradecimento especial ao *Núcleo de Física do Instituto Superior Técnico - NFIST* e à *Hackerschool*, ambos núcleos do IST pelo apoio logístico oferecido ao longo de toda a execução do projeto.
-
+Agradecimento especial ao **Núcleo de Física do Instituto Superior Técnico - NFIST** e à **Hackerschool**, ambos núcleos do IST pelo apoio logístico e aconselhamento oferecido ao longo de toda a execução do projeto. Foi essencial estar rodeado destas organizações para auxiliar à transformação da ideia num projeto real.
 
 Este produto é open source! Esta livre de utilizar, reutilizar e modificar totalmente estes ficheiros de acordo com o propósito. 
 Distribuído como apresentado; sem garantia.
