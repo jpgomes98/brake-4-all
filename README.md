@@ -56,18 +56,18 @@ Deve-se alterar a seguinte linha:
 
 Por outro lado, este código *limpa* ainda o sinal medido do efeito da gravidade, provocado pela inclinação da estradas onde a bicicleta pode andar, permitindo detetar travagens, mesmo quando o eixo sensível é afetado de uma certa componente da gravidade, *g*. Assim, temos o seguinte trecho de código para contornar este problema:
 
-`if(aX != aX0){       
+```C
+if(aX != aX0){       
    gY = sqrt(aTotal0*aTotal0 - aX*aX - aZ*aZ);
    if(aY > 0){ 
-   // Se e maior que zero, subtraimos a componente de Y da gravidade - Ex: ciclista a descer uma rampa
           aY = aY - gY;
    }
    else{       
-   // Se e menor que zero, adicionamos a componente de Y da gravidade - Ex: ciclista a subir uma rampa
           aY = aY + gY;
    }
- }
-`
+}
+```
+Aqui está o essencial sobre  programa. O restante código pode ser facilmente compreendido com a ajuda dos comentários adicionados junto de cada secção do código.
 
 ## Autores, Agradecimentos e Licenciamento
 
